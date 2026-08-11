@@ -10,5 +10,4 @@ Github, git kullanılarak geliştirilen bir projenin bulut üzerinde depolanmas�
 ## GIT MIMARISI
 Bir projemizde git kullanıyorsak, burada git mimarimizi üç ana alandan oluşur. Bunlar **Working Directory**, **Staging Area** ve **Repository**'dir.
 
-![Git mimarisi için temsili bir görsel](src/git-architecture.png)
-src/git-architecture.png
+![Git mimarisi için temsili bir görsel](https://github.com/yakupaktastr/ai-career/blob/main/src/git-architecture.png)
