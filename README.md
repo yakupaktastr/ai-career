@@ -6,6 +6,7 @@ notları, egzersizleri ve projeleri içerir.
 ## Bölümler
 
 - Git ve GitHub
+  - [Git çalışma notlarım](\notes\git-notes.md)
 - Python
 - SQL ve Veri Analizi
 - Machine Learning
