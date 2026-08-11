@@ -1,7 +1,6 @@
 # AI Engineering Career Journey
 
-Bu repository, AI Engineering kariyer yol haritam boyunca hazırladığım
-notları, egzersizleri ve projeleri içerir.
+Bu repository, AI Engineering kariyer yol haritam boyunca hazırladığım notları, egzersizleri ve projeleri içerir.
 
 ## Bölümler
 

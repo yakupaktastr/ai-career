@@ -8,4 +8,6 @@ Git, bir versiyon kontrol sistemidir(vcs). Bir proje geliştirilirken projenin �
 Github, git kullanılarak geliştirilen bir projenin bulut üzerinde depolanmasını veya yayına alınmasını sağlayan platformdur.
 
 ## GIT MIMARISI
-Bir projemizde git kullanıyorsak, burada git mimarimizi iki ana başlık altında inceleyebiliriz. Bunlar yerel ve sunucu tarafı olarak ikiye ayrılır. Yerel kısımda ana çalışma alanımız **Working Directory**'dir 
+Bir projemizde git kullanıyorsak, burada git mimarimizi üç ana alandan oluşur. Bunlar **Working Directory**, **Staging Area** ve **Repository**'dir.
+
+![Git mimarisi için temsili bir görsel](src/git-architecture.png)
